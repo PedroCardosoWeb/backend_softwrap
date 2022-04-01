@@ -6,5 +6,6 @@ const PeopleValidation = require('../middleware/PeopleValidation')
 
 router.post('/', PeopleValidation, PeopleController.create)
 router.get('/', PeopleController.all)
+router.put('/:id', PeopleValidation, PeopleController.update)
 
 module.exports = router;

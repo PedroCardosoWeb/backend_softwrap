@@ -1,5 +1,7 @@
 # backend_softwrap
 
+A proposta deste pequeno projeto é realizar as operações CRUD, utilizando a stack Node/React/MongoDB.
+
 O backend desta aplicação foi construído com Node.js, utilizando recursos de bibliotecas como: express, axios, cors, mongoose, entre outros. 
 
 Para o banco de dados, por questões de viabilidade, foi escolhido o mongoDB em cloud através da plataforma MongoDB Atlas Cloud.

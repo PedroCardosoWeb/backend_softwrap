@@ -1,5 +1,4 @@
 # backend_softwrap
-# frontend_softwrap
 
 O backend desta aplicação foi construído com Node.js, utilizando recursos de bibliotecas como: express, axios, cors, mongoose, entre outros. 
 
